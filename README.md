@@ -10,8 +10,6 @@ Commands **.
 create indices, delete and modify tables). Export ER diagram from the database and verify
 relationships** (with the ER diagram designed in step 1).
 
-ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
-
 4. Database initialization - Data insert, Data import to a database (bulk import using UI and
 SQL Commands)**.
 5. Practice SQL commands for DML (insertion, updating, altering, deletion of data, and
