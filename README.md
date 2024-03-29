@@ -1,6 +1,6 @@
 # DBMS-LAB
 
-Syllabus
+## Syllabus
 
 1. Design a database schema for an application with ER diagram from a problem description**.
 2. Creation, modification, configuration, and deletion of databases using UI and SQL Commands **.
